@@ -1,0 +1,1 @@
+I got the idea to build Nova a few weeks after i started learning Python. I was fascinated about Discord bots and was confused on how they worked, so I wanted to find out. Now, here I stand, with a Discord bot made completely by myself. Nova is deeply inspired by J.A.R.V.I.S from the Iron Man movies and just personal assistants overall. 
